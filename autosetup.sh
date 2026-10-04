@@ -7,6 +7,9 @@ cp -r kitty/ ~/.config/
 cp -r tmux/ ~/.config/
 cp -r openbox/ ~/.config/
 
+## Put the Retro Classic 98 theme
+sudo cp -r openbox/Retro\ 5\ \(Classic\ 98\)\ ObiWine/ /usr/share/themes/
+
 ## Set temple os font 
 echo '\033[1m[i] set the temple os font..\033[0m'
 
